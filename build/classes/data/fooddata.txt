@@ -1,0 +1,4 @@
+Fried Brisket,20,cups,300,2022,40,50,60
+Cake,40,slices,600,30,50,50,42
+Cookie,10,servings,800,0,52,62,423
+Chocolate,1,cup,900,1322,43,54,2
